@@ -4,6 +4,9 @@ Ideia de aplicativo escrito em python com proposito de se transformar em um apli
 
 Detalhes dos arquivos:
 main.py -> código geral
+
+
+
 tabela.py -> tabela de elementos (118 elementos)
 cores.py -> relaçao de cores e familias dos elementos
 
