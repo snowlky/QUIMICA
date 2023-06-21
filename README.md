@@ -6,8 +6,11 @@ Atualmente, não desenvolvemos uma interface gráfica para simplificar o trabalh
 Detalhes dos arquivos:
 
 main.py: código principal.
+
 tabela.py: tabela de elementos com 118 elementos.
+
 cores.py: relação de cores e famílias dos elementos.
+
 Para que o código funcione corretamente, é necessário utilizar os três arquivos .py mencionados acima.
 
 Funcionamento:
