@@ -26,4 +26,7 @@ cores.py -> relaçao de cores e familias dos elementos
 
 Funcionamento:
 
-Por ainda nao trabalhar em uma interface grafica para amenizar o trabalho e facilitar a tradução e elaboração do app mobile.
+Por ainda nao trabalhar em uma interface grafica para amenizar o trabalho e facilitar a tradução e elaboração do app mobile, decidimos disponibilizar o codigo para o publico para demonstraçao de que se a criatividade, ideias e ensinos forem unidos é possivel demonstrar para o aluno que com a programaçao é possivel tambem solucionar diversos problemas do dia a dia.
+
+Estou tambem disponibilizando junto o codigo de "Nomenclatura dos Compostos Organicos" que ainda esta em fase inicial de testes e elaboraçao do codigo para que fique no padrao do outro e possamos unir-los.
+Arquivo > NCO.py
