@@ -35,4 +35,6 @@ E o usuario usa o "x" para retroceder nos menus ou sair do app.
 
 
 Estou tambem disponibilizando junto o codigo de "Nomenclatura dos Compostos Organicos" que ainda esta em fase inicial de testes e elaboraçao do codigo para que fique no padrao do outro e possamos unir-los.
+
+
 Arquivo > NCO.py
